@@ -48,7 +48,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/php/guestbook/</guid>
-      <description>Script that stores visitor names and e-mail addresses in a text file. Allows users to view the guest book and prevents the same user name from being entered twice. Also, includes a sort method to sort the guest book by name and deletes duplicate entries.</description>
+      <description>Script that stores visitor names and e-mail addresses in a text file. Allows users to view the guest book and prevents the same username from being entered twice. Also, includes a sort method to sort the guest book by name and deletes duplicate entries.</description>
     </item>
     
     <item>

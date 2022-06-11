@@ -31,9 +31,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/websites/mep/</guid>
-      <description>Advanced web-dev semester long final project which included wire frames, marketing concepts, color schemeing, search engine optimization, software development life cycle, and time management concepts. The whole project involved sharing ideas with other classmates throughout the semester, and sharing constructive criticism about other people&amp;rsquo;s ideas and workflows.
+      <description>Advanced web-dev semester long final project which included wire frames, marketing concepts, color scheming, search engine optimization, software development life cycle, and time management concepts. The whole project involved sharing ideas with other classmates throughout the semester, and sharing constructive criticism about other people&amp;rsquo;s ideas and workflows.
 Notes:
-Bootstrap, javascript, SDLC, SEO, wire framing</description>
+Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
     </item>
     
     <item>
@@ -42,7 +42,7 @@ Bootstrap, javascript, SDLC, SEO, wire framing</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/probabilities/</guid>
-      <description>Javascript dice probability histogram program. It randomizes the roll of a pair of dice and tabulates the number of occurrences of 2-12. It then displays a histogram with the percentage probabilities and asterisks which relatively match the percentages. The user enters the number of roles to generate.</description>
+      <description>JavaScript dice probability histogram program. It randomizes the roll of a pair of dice and tabulates the number of occurrences of 2-12. It then displays a histogram with the percentage probabilities and asterisks which relatively match the percentages. The user enters the number of roles to generate.</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@ I&amp;rsquo;m currently enrolled in a React.js course and intend to reiterate wh
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/parallel/</guid>
-      <description>Javascript program that lets the user enter a list of students and their test scores (storing the data in parallel arrays). When the summary button is pressed the program displays the average, min, max grade and a count of the number of A, B, C, D, and F grades scored.</description>
+      <description>JavaScript program that lets the user enter a list of students and their test scores (storing the data in parallel arrays). When the summary button is pressed the program displays the average, min, max grade and a count of the number of A, B, C, D, and F grades scored.</description>
     </item>
     
     <item>
@@ -89,8 +89,8 @@ I&amp;rsquo;m currently enrolled in a React.js course and intend to reiterate wh
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/websites/portfolio/</guid>
-      <description>Creating this site has been a big challenge, but I&amp;rsquo;ve learned volumes in the process. It&amp;rsquo;s given me more experience in all areas of SDLC, especially in the deployment and bug tracking area (organizing repositories and subdirectories with git, github, and gh-pages).
-I found a theme that fit my eye for displaying my content the way I saw it in my mind and then went to work. All of the content menus and items were custom built by me, and honestly the only thing that remains of the original theme is the layout design to some extent&amp;hellip;</description>
+      <description>Creating this site has been a big challenge, but I&amp;rsquo;ve learned volumes in the process. It&amp;rsquo;s given me more experience in all areas of SDLC, especially in the deployment and bug tracking area (organizing repositories and subdirectories with git, GitHub, and GitHub Pages).
+I found a theme that fit my eye for displaying my content the way I saw it in my mind and then went to work. All the content menus and items were custom built by me, and honestly the only thing that remains of the original theme is the layout design to some extent&amp;hellip;</description>
     </item>
     
     <item>
@@ -99,8 +99,8 @@ I found a theme that fit my eye for displaying my content the way I saw it in my
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/portfolio/</guid>
-      <description>Creating this site has been a big challenge, but I&amp;rsquo;ve learned volumes in the process. It&amp;rsquo;s given me more experience in all areas of SDLC, especially in the deployment and bug tracking area (organizing repositories and subdirectories with git, github, and gh-pages).
-I found a theme that fit my eye for displaying my content the way I saw it in my mind and then went to work. All of the content menus and items were custom built by me, and honestly the only thing that remains of the original theme is the layout design to some extent&amp;hellip;</description>
+      <description>Creating this site has been a big challenge, but I&amp;rsquo;ve learned volumes in the process. It&amp;rsquo;s given me more experience in all areas of SDLC, especially in the deployment and bug tracking area (organizing repositories and subdirectories with git, GitHub, and GitHub Pages).
+I found a theme that fit my eye for displaying my content the way I saw it in my mind and then went to work. All the content menus and items were custom built by me, and honestly the only thing that remains of the original theme is the layout design to some extent&amp;hellip;</description>
     </item>
     
     <item>
@@ -118,7 +118,7 @@ I found a theme that fit my eye for displaying my content the way I saw it in my
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/factorial/</guid>
-      <description>Javascript program that writes three versions of the factorial function. One recursive, one that uses a function expression, and one that does not use recursion.</description>
+      <description>JavaScript program that writes three versions of the factorial function. One recursive, one that uses a function expression, and one that does not use recursion.</description>
     </item>
     
     <item>
@@ -128,7 +128,7 @@ I found a theme that fit my eye for displaying my content the way I saw it in my
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/expensetracker/</guid>
       <description>React application which allows a user to input expenses and then has an interface for viewing and tracking the expenses from year to year.
-This is my first project from a React.js course which offers a very thorough deep dive into React components. It requires peer reviews, has various quizzes and checkpoints, and in my opinion is teaching React in a way that challenges how I think and what I understand about javascript.</description>
+This is my first project from a React.js course which offers a very thorough deep dive into React components. It requires peer reviews, has various quizzes and checkpoints, and in my opinion is teaching React in a way that challenges how I think and what I understand about JavaScript.</description>
     </item>
     
     <item>
@@ -138,7 +138,7 @@ This is my first project from a React.js course which offers a very thorough dee
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/expensetracker/</guid>
       <description>React application which allows a user to input expenses and then has an interface for viewing and tracking the expenses from year to year.
-This is my first project from a React.js course which offers a very thorough deep dive into React components. It requires peer reviews, has various quizzes and checkpoints, and in my opinion is teaching React in a way that challenges how I think and what I understand about javascript.</description>
+This is my first project from a React.js course which offers a very thorough deep dive into React components. It requires peer reviews, has various quizzes and checkpoints, and in my opinion is teaching React in a way that challenges how I think and what I understand about JavaScript.</description>
     </item>
     
     <item>
@@ -174,7 +174,7 @@ This is my first project from a React.js course which offers a very thorough dee
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/objectarray/</guid>
-      <description>Javascript program that lets the user enter a list of students and their test scores (creating an object for each student). When the summary button is pressed the program displays the average, min, max grade and a count of the number of A, B, C, D, and F grades scored.</description>
+      <description>JavaScript program that lets the user enter a list of students and their test scores (creating an object for each student). When the summary button is pressed the program displays the average, min, max grade and a count of the number of A, B, C, D, and F grades scored.</description>
     </item>
     
     <item>
@@ -183,7 +183,7 @@ This is my first project from a React.js course which offers a very thorough dee
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/timer/</guid>
-      <description>Javascript program that displays a scrolling message (user enters a message when at pages load). Every second a letter is removed from the front of the message and added to the end (scrolling continues until the stop button is pressed).</description>
+      <description>JavaScript program that displays a scrolling message (user enters a message when at pages load). Every second a letter is removed from the front of the message and added to the end (scrolling continues until the stop button is pressed).</description>
     </item>
     
     <item>
@@ -192,7 +192,7 @@ This is my first project from a React.js course which offers a very thorough dee
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/regex/</guid>
-      <description>Javascript program that lets the user enter a string for each field in the form. The program will display a message indicating if the string represents a short phone number, a long phone number, a social security number, a short zip code or a long zip code.</description>
+      <description>JavaScript program that lets the user enter a string for each field in the form. The program will display a message indicating if the string represents a short phone number, a long phone number, a social security number, a short zip code or a long zip code.</description>
     </item>
     
     <item>
@@ -201,7 +201,7 @@ This is my first project from a React.js course which offers a very thorough dee
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/dice/</guid>
-      <description>Javascript program that simulates a pseudo-game of craps. The user can enter a number, the output will show the randomized role for each game and a message indicating a win or loss. The program totals the number of wins, and displays the total and percentage of wins in the final output.</description>
+      <description>JavaScript program that simulates a pseudo-game of craps. The user can enter a number, the output will show the randomized role for each game and a message indicating a win or loss. The program totals the number of wins and then displays the total and percentage of wins in the final output.</description>
     </item>
     
     <item>
@@ -210,7 +210,7 @@ This is my first project from a React.js course which offers a very thorough dee
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/about/</guid>
-      <description>Where I am I&amp;rsquo;m an aspiring entry level software engineer looking for a place to start a career. I know that what I&amp;rsquo;ve learned so far will benefit any employer that decides to give me an opportunity. Not only am I looking forward to it, I honestly can’t wait to prove it.
+      <description>Where I am I&amp;rsquo;m an aspiring entry level software developer looking for a place to start a career. I know that what I&amp;rsquo;ve learned so far will benefit any employer that decides to give me an opportunity. Not only am I looking forward to it, I honestly can’t wait to prove it.
 What I&amp;rsquo;m looking for I truly hope to find a place where I can anchor what I&amp;rsquo;ve learned from my education, and what I&amp;rsquo;ve accomplished in my free time.</description>
     </item>
     
@@ -229,7 +229,7 @@ What I&amp;rsquo;m looking for I truly hope to find a place where I can anchor w
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/java/payrolltest/</guid>
-      <description>Focusing on exception handling, this program asks for input for various worker types, allows a user to enter the correspoinding input to calculate a weekly paycheck for each type then displays the formatted information for each type.
+      <description>Focusing on exception handling, this program asks for input for various worker types, allows a user to enter the corresponding input to calculate a weekly paycheck for each type then displays the formatted information for each type.
 Notes:
 Interfaces, Abstract Methods, Downcasting, instanceof, and final Methods</description>
     </item>
@@ -312,7 +312,7 @@ Interfaces, Abstract Methods, Downcasting, instanceof, and final Methods</descri
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/php/guestbook/</guid>
-      <description>Script that stores visitor names and e-mail addresses in a text file. Allows users to view the guest book and prevents the same user name from being entered twice. Also, includes a sort method to sort the guest book by name and deletes duplicate entries.</description>
+      <description>Script that stores visitor names and e-mail addresses in a text file. Allows users to view the guest book and prevents the same username from being entered twice. Also, includes a sort method to sort the guest book by name and deletes duplicate entries.</description>
     </item>
     
     <item>
@@ -357,7 +357,7 @@ Interfaces, Abstract Methods, Downcasting, instanceof, and final Methods</descri
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/subheader/</guid>
-      <description>Welcome to my Application Developer Portfolio. Here you will find a collection of projects that I&amp;rsquo;ve created, ranging from acadamia to free-time endeavors. My passion is gringding down UI and code until it is clean, in good order, and as efficient as possible.</description>
+      <description>Welcome to my Software Developer Portfolio. Here you will find a collection of projects that I&amp;rsquo;ve created, ranging from academia to free-time endeavors. My passion is grinding down UI and code until it is clean, in good order, and as efficient as possible.</description>
     </item>
     
     <item>

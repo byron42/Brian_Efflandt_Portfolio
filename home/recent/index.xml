@@ -22,8 +22,8 @@ I&amp;rsquo;m currently enrolled in a React.js course and intend to reiterate wh
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/portfolio/</guid>
-      <description>Creating this site has been a big challenge, but I&amp;rsquo;ve learned volumes in the process. It&amp;rsquo;s given me more experience in all areas of SDLC, especially in the deployment and bug tracking area (organizing repositories and subdirectories with git, github, and gh-pages).
-I found a theme that fit my eye for displaying my content the way I saw it in my mind and then went to work. All of the content menus and items were custom built by me, and honestly the only thing that remains of the original theme is the layout design to some extent&amp;hellip;</description>
+      <description>Creating this site has been a big challenge, but I&amp;rsquo;ve learned volumes in the process. It&amp;rsquo;s given me more experience in all areas of SDLC, especially in the deployment and bug tracking area (organizing repositories and subdirectories with git, GitHub, and GitHub Pages).
+I found a theme that fit my eye for displaying my content the way I saw it in my mind and then went to work. All the content menus and items were custom built by me, and honestly the only thing that remains of the original theme is the layout design to some extent&amp;hellip;</description>
     </item>
     
     <item>
@@ -33,7 +33,7 @@ I found a theme that fit my eye for displaying my content the way I saw it in my
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/expensetracker/</guid>
       <description>React application which allows a user to input expenses and then has an interface for viewing and tracking the expenses from year to year.
-This is my first project from a React.js course which offers a very thorough deep dive into React components. It requires peer reviews, has various quizzes and checkpoints, and in my opinion is teaching React in a way that challenges how I think and what I understand about javascript.</description>
+This is my first project from a React.js course which offers a very thorough deep dive into React components. It requires peer reviews, has various quizzes and checkpoints, and in my opinion is teaching React in a way that challenges how I think and what I understand about JavaScript.</description>
     </item>
     
   </channel>
