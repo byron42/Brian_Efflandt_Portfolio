@@ -17,6 +17,15 @@ As of right now only US zips are readable because of the API, but I would like t
     </item>
     
     <item>
+      <title>Translation App (Django)</title>
+      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/djangotranslator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/djangotranslator/</guid>
+      <description>Getting this app up and running isn&amp;rsquo;t the easiest thing I&amp;rsquo;ve ever done. That being said, this Django app allows a user to enter text into a textarea which is then processed by the googletrans API, and then returns the translation from the previously selected language.</description>
+    </item>
+    
+    <item>
       <title>Tic Tac Toe (React)</title>
       <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/tictactoe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,6 +43,17 @@ I&amp;rsquo;m currently enrolled in a React.js course and intend to reiterate wh
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/portfolio/</guid>
       <description>Creating this site has been a big challenge, but I&amp;rsquo;ve learned volumes in the process. It&amp;rsquo;s given me more experience in all areas of SDLC, especially in the deployment and bug tracking area (organizing repositories and subdirectories with git, GitHub, and GitHub Pages).
 I found a theme that fit my eye for displaying my content the way I saw it in my mind and then went to work. All the content menus and items were custom built by me, and honestly the only thing that remains of the original theme is the layout design to some extent&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Mary Efflandt Photo (HTML)</title>
+      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mep/</guid>
+      <description>Advanced web-dev semester long final project which included wire frames, marketing concepts, color scheming, search engine optimization, software development life cycle, and time management concepts. The whole project involved sharing ideas with other classmates throughout the semester, and sharing constructive criticism about other people&amp;rsquo;s ideas and workflows.
+Notes:
+Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
     </item>
     
     <item>
