@@ -145,8 +145,7 @@ This is my first project from a React.js course which offers a very thorough dee
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/tictactoe/</guid>
-      <description>For now, I&amp;rsquo;ve taken the React tutorial and added a method to highlight the winning column, and also enhanced the interface for a better look and feel.
-I&amp;rsquo;m currently enrolled in a React.js course and intend to reiterate what I&amp;rsquo;ve learned from it here by ultimately componentizing this application.</description>
+      <description>For now, I&amp;rsquo;ve taken this React tutorial and added a method to highlight the winning column, and also enhanced the interface for a better look and feel (clean, responsive).</description>
     </item>
     
     <item>
@@ -192,7 +191,7 @@ I found a theme that fit my eye for displaying my content the way I saw it in my
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mep/</guid>
-      <description>Advanced web-dev semester long final project which included wire frames, marketing concepts, color scheming, search engine optimization, software development life cycle, and time management concepts. The whole project involved sharing ideas with other classmates throughout the semester, and sharing constructive criticism about other people&amp;rsquo;s ideas and workflows.
+      <description>Advanced web-dev semester long final project (refactored) which included wire frames, marketing concepts, color scheming, search engine optimization, software development life cycle, and time management concepts. The whole project involved sharing ideas with other classmates throughout the semester, and sharing constructive criticism about other people&amp;rsquo;s ideas and workflows.
 Notes:
 Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
     </item>
@@ -212,8 +211,7 @@ Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/expensetracker/</guid>
-      <description>React application which allows a user to input expenses and then has an interface for viewing and tracking the expenses from year to year.
-This is my first project from a React.js course which offers a very thorough deep dive into React components. It requires peer reviews, has various quizzes and checkpoints, and in my opinion is teaching React in a way that challenges how I think and what I understand about JavaScript.</description>
+      <description>React application which allows a user to input expenses and then has an interface for viewing and tracking the expenses from year to year.</description>
     </item>
     
     <item>
