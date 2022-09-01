@@ -158,6 +158,17 @@ This is my first project from a React.js course which offers a very thorough dee
     </item>
     
     <item>
+      <title>Mary Efflandt Photo (HTML)</title>
+      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mep/</guid>
+      <description>Advanced web-dev semester long project (refactored) which included wire frames, marketing concepts, color scheming, search engine optimization, software development life cycle, and time management concepts. The whole project involved sharing ideas with other classmates throughout the semester, and sharing constructive criticism about other people&amp;rsquo;s ideas and workflows.
+Notes:
+Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
+    </item>
+    
+    <item>
       <title>Portfolio Site (HUGO)</title>
       <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -183,17 +194,6 @@ I found a theme that fit my eye for displaying my content the way I saw it in my
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/objectarray/</guid>
       <description>JavaScript program that lets the user enter a list of students and their test scores (creating an object for each student). When the summary button is pressed the program displays the average, min, max grade and a count of the number of A, B, C, D, and F grades scored.</description>
-    </item>
-    
-    <item>
-      <title>Mary Efflandt Photo (HTML)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mep/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mep/</guid>
-      <description>Advanced web-dev semester long final project (refactored) which included wire frames, marketing concepts, color scheming, search engine optimization, software development life cycle, and time management concepts. The whole project involved sharing ideas with other classmates throughout the semester, and sharing constructive criticism about other people&amp;rsquo;s ideas and workflows.
-Notes:
-Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
     </item>
     
     <item>
