@@ -12,8 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/tictactoe/</guid>
-      <description>For now, I&amp;rsquo;ve taken the React tutorial and added a method to highlight the winning column, and enhanced the interface for better look and feel.
-I&amp;rsquo;m currently enrolled in a React.js course and intend to reiterate what I&amp;rsquo;ve learned from it here by ultimately componentizing this application.</description>
+      <description>React tic-tac-toe game that keeps a record of each player&amp;rsquo;s moves and highlights the winner&amp;rsquo;s marks once the game is complete.</description>
     </item>
     
     <item>

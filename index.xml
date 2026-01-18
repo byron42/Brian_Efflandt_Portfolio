@@ -70,8 +70,7 @@ Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/tictactoe/</guid>
-      <description>For now, I&amp;rsquo;ve taken the React tutorial and added a method to highlight the winning column, and enhanced the interface for better look and feel.
-I&amp;rsquo;m currently enrolled in a React.js course and intend to reiterate what I&amp;rsquo;ve learned from it here by ultimately componentizing this application.</description>
+      <description>React tic-tac-toe game that keeps a record of each player&amp;rsquo;s moves and highlights the winner&amp;rsquo;s marks once the game is complete.</description>
     </item>
     
     <item>
@@ -89,7 +88,7 @@ I&amp;rsquo;m currently enrolled in a React.js course and intend to reiterate wh
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/websites/portfolio/</guid>
-      <description>Creating this site has been a big challenge, but I&amp;rsquo;ve learned volumes in the process. It&amp;rsquo;s given me more experience in all areas of SDLC, especially in the deployment and bug tracking area (organizing repositories and subdirectories with git, GitHub, and GitHub Pages).</description>
+      <description>Creating this site has been a challenging. It’s given me an opportunity to gain experience in all areas of the SDLC, especially in deployment and bug tracking (organizing repositories and subdirectories with Git, GitHub, and GitHub Pages).</description>
     </item>
     
     <item>
@@ -107,7 +106,7 @@ I&amp;rsquo;m currently enrolled in a React.js course and intend to reiterate wh
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/djangotranslator/</guid>
-      <description>Getting this app up and running isn&amp;rsquo;t the easiest thing I&amp;rsquo;ve ever done. That being said, this Django app allows a user to enter text into a textarea which is then processed by the googletrans API, and then returns the translation from the previously selected language.</description>
+      <description>Django app that allows a user to enter text into a textarea which is then processed by the googletrans API, and then returns the translation from the previously selected language.</description>
     </item>
     
     <item>
@@ -144,7 +143,7 @@ This is my first project from a React.js course which offers a very thorough dee
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/tictactoe/</guid>
-      <description>For now, I&amp;rsquo;ve taken this React tutorial and added a method to highlight the winning column, and also enhanced the interface for a better look and feel (clean, responsive).</description>
+      <description>React tic-tac-toe game that keeps a record of each player&amp;rsquo;s moves and highlights the winner&amp;rsquo;s marks once the game is complete.</description>
     </item>
     
     <item>
@@ -173,7 +172,7 @@ Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/portfolio/</guid>
-      <description>Creating this site has been a big challenge, but I&amp;rsquo;ve learned volumes in the process. It&amp;rsquo;s given me more experience in all areas of SDLC, especially in the deployment and bug tracking area (organizing repositories and subdirectories with git, GitHub, and GitHub Pages).</description>
+      <description>Creating this site has been a challenging. It’s given me an opportunity to gain experience in all areas of the SDLC, especially in deployment and bug tracking (organizing repositories and subdirectories with Git, GitHub, and GitHub Pages).</description>
     </item>
     
     <item>
@@ -382,7 +381,7 @@ Interfaces, Abstract Methods, Downcasting, instanceof, and final Methods</descri
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/subheader/</guid>
-      <description>Welcome to my Web Developer Portfolio. Here you will find a collection of projects that I&amp;rsquo;ve created, ranging from academia to free-time endeavors. My passion is grinding down UI and code until it is clean, in good order, and as efficient as possible.</description>
+      <description>Striving to create with an emphasis on clarity, structure, and maintainable code, these projects span academic work and personal experiments. Each shaped by a focus on intuitive interfaces and efficient engineering, this portfolio highlights the work that best reflects how I think and create as a developer.</description>
     </item>
     
     <item>

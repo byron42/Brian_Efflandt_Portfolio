@@ -22,7 +22,7 @@ As of right now only US zips are readable because of the API, but I would like t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/djangotranslator/</guid>
-      <description>Getting this app up and running isn&amp;rsquo;t the easiest thing I&amp;rsquo;ve ever done. That being said, this Django app allows a user to enter text into a textarea which is then processed by the googletrans API, and then returns the translation from the previously selected language.</description>
+      <description>Django app that allows a user to enter text into a textarea which is then processed by the googletrans API, and then returns the translation from the previously selected language.</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@ As of right now only US zips are readable because of the API, but I would like t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/tictactoe/</guid>
-      <description>For now, I&amp;rsquo;ve taken this React tutorial and added a method to highlight the winning column, and also enhanced the interface for a better look and feel (clean, responsive).</description>
+      <description>React tic-tac-toe game that keeps a record of each player&amp;rsquo;s moves and highlights the winner&amp;rsquo;s marks once the game is complete.</description>
     </item>
     
     <item>
@@ -51,7 +51,7 @@ Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/portfolio/</guid>
-      <description>Creating this site has been a big challenge, but I&amp;rsquo;ve learned volumes in the process. It&amp;rsquo;s given me more experience in all areas of SDLC, especially in the deployment and bug tracking area (organizing repositories and subdirectories with git, GitHub, and GitHub Pages).</description>
+      <description>Creating this site has been a challenging. It’s given me an opportunity to gain experience in all areas of the SDLC, especially in deployment and bug tracking (organizing repositories and subdirectories with Git, GitHub, and GitHub Pages).</description>
     </item>
     
     <item>
