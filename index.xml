@@ -22,8 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mernweather/</guid>
-      <description>MERN application that grabs an openweather API and stores the JSON in MongoDB. There is also a function that stores a timestamp for each submit in local storage that can be cleared from within the app.
-As of right now only US zips are readable because of the API, but I would like to rework this in the future so that it accesses the geolocation API (enter city name). For now this is functional and running error free.</description>
+      <description>MERN application that grabs an openweather API and stores the JSON in MongoDB. There is also a function that stores a timestamp for each submit in local storage that can be cleared from within the app.</description>
     </item>
     
     <item>
@@ -41,7 +40,7 @@ As of right now only US zips are readable because of the API, but I would like t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/websites/mep/</guid>
-      <description>Advanced web-dev semester long project (refactored) which included wire frames, marketing concepts, color scheming, search engine optimization, software development life cycle, and time management concepts. The whole project involved sharing ideas with other classmates throughout the semester, and sharing constructive criticism about other people&amp;rsquo;s ideas and workflows.
+      <description>Advanced web-dev semester long project which included wire frames, marketing concepts, color scheming, search engine optimization, software development life cycle, and time management concepts. The whole project involved sharing ideas with other classmates throughout the semester, and sharing constructive criticism about other people&amp;rsquo;s ideas and workflows.
 Notes:
 Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
     </item>
@@ -88,7 +87,7 @@ Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/websites/portfolio/</guid>
-      <description>Creating this site has been a challenging. It’s given me an opportunity to gain experience in all areas of the SDLC, especially in deployment and bug tracking (organizing repositories and subdirectories with Git, GitHub, and GitHub Pages).</description>
+      <description>Creating this site has been challenging. It’s given me an opportunity to gain experience in all areas of the SDLC, especially in deployment and bug tracking (organizing repositories and subdirectories with Git, GitHub, and GitHub Pages).</description>
     </item>
     
     <item>
@@ -161,7 +160,7 @@ This is my first project from a React.js course which offers a very thorough dee
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mep/</guid>
-      <description>Advanced web-dev semester long project (refactored) which included wire frames, marketing concepts, color scheming, search engine optimization, software development life cycle, and time management concepts. The whole project involved sharing ideas with other classmates throughout the semester, and sharing constructive criticism about other people&amp;rsquo;s ideas and workflows.
+      <description>Advanced web-dev semester long project which included wire frames, marketing concepts, color scheming, search engine optimization, software development life cycle, and time management concepts. The whole project involved sharing ideas with other classmates throughout the semester, and sharing constructive criticism about other people&amp;rsquo;s ideas and workflows.
 Notes:
 Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
     </item>
@@ -172,7 +171,7 @@ Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/portfolio/</guid>
-      <description>Creating this site has been a challenging. It’s given me an opportunity to gain experience in all areas of the SDLC, especially in deployment and bug tracking (organizing repositories and subdirectories with Git, GitHub, and GitHub Pages).</description>
+      <description>Creating this site has been challenging. It’s given me an opportunity to gain experience in all areas of the SDLC, especially in deployment and bug tracking (organizing repositories and subdirectories with Git, GitHub, and GitHub Pages).</description>
     </item>
     
     <item>
