@@ -123,8 +123,7 @@ Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/expensetracker/</guid>
-      <description>React application which allows a user to input expenses and then has an interface for viewing and tracking the expenses from year to year.
-This is my first project from a React.js course which offers a very thorough deep dive into React components. It requires peer reviews, has various quizzes and checkpoints, and in my opinion is teaching React in a way that challenges how I think and what I understand about JavaScript.</description>
+      <description>React application which allows a user to input expenses and then has an interface for viewing and tracking the expenses from year to year.</description>
     </item>
     
     <item>
