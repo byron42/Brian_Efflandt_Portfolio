@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>Full Stack Weather App (MERN)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mernweather/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mernweather/</guid>
-      <description>MERN application that grabs an openweather API and stores the JSON in MongoDB. There is also a function that stores a timestamp for each submit in local storage that can be cleared from within the app.</description>
-    </item>
-    
-    <item>
       <title>Mary Efflandt Photography</title>
       <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/access/access/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -70,6 +61,24 @@ Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/tictactoe/</guid>
       <description>React tic-tac-toe game that keeps a record of each player&amp;rsquo;s moves and highlights the winner&amp;rsquo;s marks once the game is complete.</description>
+    </item>
+    
+    <item>
+      <title>Trivia Game (JS, Node, Express)</title>
+      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/triviagame/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/triviagame/</guid>
+      <description>Application that utilizes Open Trivia DB API, node js, and express. Weighted scores based on how fast you answer questions, enter your name after the quiz to be added to the (Pantry) database. If you place in the top 10, your score will be highlighted to represent your position among the leaders.</description>
+    </item>
+    
+    <item>
+      <title>Full Stack Weather App (MERN)</title>
+      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mernweather/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mernweather/</guid>
+      <description>MERN application that grabs an openweather API and stores the JSON in MongoDB. There is also a function that stores a timestamp for each submit in local storage that can be cleared from within the app.</description>
     </item>
     
     <item>
@@ -198,15 +207,6 @@ Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/timer/</guid>
       <description>JavaScript program that displays a scrolling message (user enters a message when at pages load). Every second a letter is removed from the front of the message and added to the end (scrolling continues until the stop button is pressed).</description>
-    </item>
-    
-    <item>
-      <title>Expense Tracker (React)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/expensetracker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/expensetracker/</guid>
-      <description>React application which allows a user to input expenses and then has an interface for viewing and tracking the expenses from year to year.</description>
     </item>
     
     <item>
