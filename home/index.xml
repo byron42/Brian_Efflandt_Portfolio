@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Brian Efflandt Coding Portfolio</title>
-    <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/</link>
+    <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/</link>
     <description>Recent content in Homes on Brian Efflandt Coding Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://byron42.github.io/Brian_Efflandt_Portfolio/home/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/Brian_Efflandt_Portfolio/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/subheader/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/subheader/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/home/subheader/</guid>
       <description>Striving to create with an emphasis on clarity, structure, and maintainable code. These projects span academic work and personal experiments, each shaped by a focus on intuitive interfaces and efficient engineering. This portfolio highlights the work that best reflects how I think and create as a developer.</description>
     </item>
     

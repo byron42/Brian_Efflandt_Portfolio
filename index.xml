@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brian Efflandt Coding Portfolio</title>
-    <link>https://byron42.github.io/Brian_Efflandt_Portfolio/</link>
+    <link>http://localhost:1313/Brian_Efflandt_Portfolio/</link>
     <description>Recent content on Brian Efflandt Coding Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate><atom:link href="https://byron42.github.io/Brian_Efflandt_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Brian_Efflandt_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Download original template</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/downloads/download1/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/downloads/download1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/downloads/download1/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/home/downloads/download1/</guid>
       <description>A simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
     </item>
     
     <item>
       <title>Mary Efflandt Photography</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/access/access/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/access/access/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/access/access/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/access/access/</guid>
       <description>A semester long project requiring a statement of work (SOW), a continuously refined entity relationship diagram (ERD), the creation of a Microsoft Access DB revolving around them, all framed by my wife&amp;rsquo;s photography business needs.</description>
     </item>
     
     <item>
       <title>Mary Efflandt Photography</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/websites/mep/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/websites/mep/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/websites/mep/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/websites/mep/</guid>
       <description>Advanced web-dev semester long project which included wire frames, marketing concepts, color scheming, search engine optimization, software development life cycle, and time management concepts. The whole project involved sharing ideas with other classmates throughout the semester, and sharing constructive criticism about other people&amp;rsquo;s ideas and workflows.
 Notes:
 Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
@@ -38,136 +38,136 @@ Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
     
     <item>
       <title>Probabilities With Dice</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/probabilities/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/javascript/probabilities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/probabilities/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/javascript/probabilities/</guid>
       <description>JavaScript dice probability histogram program. It randomizes the roll of a pair of dice and tabulates the number of occurrences of 2-12. It then displays a histogram with the percentage probabilities and asterisks which relatively match the percentages. The user enters the number of roles to generate.</description>
     </item>
     
     <item>
       <title>Rock, Paper, Scissors</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/c_sharp/rps/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/c_sharp/rps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/c_sharp/rps/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/c_sharp/rps/</guid>
       <description>Application that allows a user to pick rock, paper, or scissor, and then play as many games as they like against the computer until they close the program.</description>
     </item>
     
     <item>
       <title>Tic Tac Toe (React)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/tictactoe/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/react/tictactoe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/tictactoe/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/react/tictactoe/</guid>
       <description>React tic-tac-toe game that keeps a record of each player&amp;rsquo;s moves and highlights the winner&amp;rsquo;s marks once the game is complete.</description>
     </item>
     
     <item>
       <title>Trivia Game (JS, Node, Express)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/triviagame/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/triviagame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/triviagame/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/triviagame/</guid>
       <description>Application that utilizes Open Trivia DB API, node js, and express. Weighted scores based on how fast you answer questions, enter your name after the quiz to be added to the (Pantry) database. If you place in the top 10, your score will be highlighted to represent your position among the leaders.</description>
     </item>
     
     <item>
       <title>Full Stack Weather App (MERN)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mernweather/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/mernweather/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mernweather/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/mernweather/</guid>
       <description>MERN application that grabs an openweather API and stores the JSON in MongoDB. There is also a function that stores a timestamp for each submit in local storage that can be cleared from within the app.</description>
     </item>
     
     <item>
       <title>Parallel Arrays</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/parallel/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/javascript/parallel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/parallel/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/javascript/parallel/</guid>
       <description>JavaScript program that lets the user enter a list of students and their test scores (storing the data in parallel arrays). When the summary button is pressed the program displays the average, min, max grade and a count of the number of A, B, C, D, and F grades scored.</description>
     </item>
     
     <item>
       <title>Portfolio Site</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/websites/portfolio/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/websites/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/websites/portfolio/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/websites/portfolio/</guid>
       <description>Creating this site has been challenging. It’s given me an opportunity to gain experience in all areas of the SDLC, especially in deployment and bug tracking (organizing repositories and subdirectories with Git, GitHub, and GitHub Pages).</description>
     </item>
     
     <item>
       <title>Slot machine Simulater</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/c_sharp/slots/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/c_sharp/slots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/c_sharp/slots/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/c_sharp/slots/</guid>
       <description>Application where a user plays as many simulated slot spins as they like. Double winnings when two items match - on exit the application shows winnings against the amount wagered.</description>
     </item>
     
     <item>
       <title>Translation App (Django)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/djangotranslator/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/djangotranslator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/djangotranslator/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/djangotranslator/</guid>
       <description>Django app that allows a user to enter text into a textarea which is then processed by the googletrans API, and then returns the translation from the previously selected language.</description>
     </item>
     
     <item>
       <title>Calculating Factorials</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/factorial/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/javascript/factorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/factorial/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/javascript/factorial/</guid>
       <description>JavaScript program that writes three versions of the factorial function. One recursive, one that uses a function expression, and one that does not use recursion.</description>
     </item>
     
     <item>
       <title>Expense Tracker (React)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/expensetracker/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/react/expensetracker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/expensetracker/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/react/expensetracker/</guid>
       <description>React application which allows a user to input expenses and then has an interface for viewing and tracking the expenses from year to year.</description>
     </item>
     
     <item>
       <title>Team Leader (OOP)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/c_sharp/teamlead/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/c_sharp/teamlead/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/c_sharp/teamlead/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/c_sharp/teamlead/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tic Tac Toe (React)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/tictactoe/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/tictactoe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/tictactoe/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/tictactoe/</guid>
       <description>React tic-tac-toe game that keeps a record of each player&amp;rsquo;s moves and highlights the winner&amp;rsquo;s marks once the game is complete.</description>
     </item>
     
     <item>
       <title>jquery</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/jquery/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/javascript/jquery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/jquery/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/javascript/jquery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mary Efflandt Photo (HTML)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mep/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/mep/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mep/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/mep/</guid>
       <description>Advanced web-dev semester long project which included wire frames, marketing concepts, color scheming, search engine optimization, software development life cycle, and time management concepts. The whole project involved sharing ideas with other classmates throughout the semester, and sharing constructive criticism about other people&amp;rsquo;s ideas and workflows.
 Notes:
 Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
@@ -175,82 +175,82 @@ Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
     
     <item>
       <title>Portfolio Site (HUGO)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/portfolio/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/portfolio/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/portfolio/</guid>
       <description>Creating this site has been challenging. It’s given me an opportunity to gain experience in all areas of the SDLC, especially in deployment and bug tracking (organizing repositories and subdirectories with Git, GitHub, and GitHub Pages).</description>
     </item>
     
     <item>
       <title>Word Counter &amp; Average Letter</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/c_sharp/wordcount/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/c_sharp/wordcount/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/c_sharp/wordcount/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/c_sharp/wordcount/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Array of Objects (OOP)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/objectarray/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/javascript/objectarray/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/objectarray/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/javascript/objectarray/</guid>
       <description>JavaScript program that lets the user enter a list of students and their test scores (creating an object for each student). When the summary button is pressed the program displays the average, min, max grade and a count of the number of A, B, C, D, and F grades scored.</description>
     </item>
     
     <item>
       <title>Timer</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/timer/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/javascript/timer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/timer/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/javascript/timer/</guid>
       <description>JavaScript program that displays a scrolling message (user enters a message when at pages load). Every second a letter is removed from the front of the message and added to the end (scrolling continues until the stop button is pressed).</description>
     </item>
     
     <item>
       <title>Regular Expressions</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/regex/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/javascript/regex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/regex/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/javascript/regex/</guid>
       <description>JavaScript program that lets the user enter a string for each field in the form. The program will display a message indicating if the string represents a short phone number, a long phone number, a social security number, a short zip code or a long zip code.</description>
     </item>
     
     <item>
       <title>Dice (craps simulation)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/dice/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/javascript/dice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/javascript/dice/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/javascript/dice/</guid>
       <description>JavaScript program that simulates a pseudo-game of craps. The user can enter a number, the output will show the randomized role for each game and a message indicating a win or loss. The program totals the number of wins and then displays the total and percentage of wins in the final output.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/about/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/about/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/about/</guid>
       <description>Who I am  Certified Zendesk Support Administrator with specialization in UI | UX | CX, I am actively seeking the next opportunity to advance my career. I have extensive experience managing and customizing all aspects of an enterprise-level Zendesk instance, including configuration, maintenance, and optimization. The skills and insights I’ve gained are highly transferable, and I’m confident they will add immediate value to any organization that welcomes me aboard. I’m not only eager to contribute, I’m genuinely excited to demonstrate the impact I can make.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/contact/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/contact/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Payroll Test (OOP)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/java/payrolltest/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/java/payrolltest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/java/payrolltest/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/java/payrolltest/</guid>
       <description>Focusing on exception handling, this program asks for input for various worker types, allows a user to enter the corresponding input to calculate a weekly paycheck for each type then displays the formatted information for each type.
 Notes:
 Interfaces, Abstract Methods, Downcasting, instanceof, and final Methods</description>
@@ -258,145 +258,145 @@ Interfaces, Abstract Methods, Downcasting, instanceof, and final Methods</descri
     
     <item>
       <title>Web Orders</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/php/weborders/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/php/weborders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/php/weborders/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/php/weborders/</guid>
       <description>This is an &amp;ldquo;online order&amp;rdquo; web-form where visitors select a quantity of items for sale. Each item has a name, description, and price. The form has buttons to update the totals for the quantities entered, and to submit the order.</description>
     </item>
     
     <item>
       <title>File Creator</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/java/filecreator/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/java/filecreator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/java/filecreator/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/java/filecreator/</guid>
       <description>Java program that allows the user to create, write to, and read from a sequential-access file using the Formatter and Scanner classes.</description>
     </item>
     
     <item>
       <title>Bug Report (SQL)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/php/bugreport/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/php/bugreport/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/php/bugreport/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/php/bugreport/</guid>
       <description>Web page that is used for storing software development bug reports in a MySQL database. Includes fields for product name and version, type of hardware, operating system, frequency of occurrence, and proposed solutions. Main page that allows a new bug report and updates to existing bug report.</description>
     </item>
     
     <item>
       <title>Part-Time Employee (OOP)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/java/part_time/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/java/part_time/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/java/part_time/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/java/part_time/</guid>
       <description>Java program that outputs static content for each worker type by utilizing interfaces, abstract methods, downcasting, instanceof, and final methods.</description>
     </item>
     
     <item>
       <title>Guessing Game</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/php/guessing_game/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/php/guessing_game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/php/guessing_game/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/php/guessing_game/</guid>
       <description>Script that uses sessions to store a random number between 0 and 100, along with the number of guesses the user has attempted. Each time the user guesses wrong, the number of guesses are displayed.</description>
     </item>
     
     <item>
       <title>Regular Expressions</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/java/regex/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/java/regex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/java/regex/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/java/regex/</guid>
       <description>Java program that allows a user to enter some information, it is verified/validated using regular expressions, and is output with a variety of StringBuilder and String methods.</description>
     </item>
     
     <item>
       <title>Change Calculator</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/php/changecalc/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/php/changecalc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/php/changecalc/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/php/changecalc/</guid>
       <description>All-in-One Web form that calculates the correct amount of change to return when performing a cash transaction. Allows the user (a cashier) to enter the cost of a transaction and the exact amount of money that the customer hands over to pay for the transaction (up to $100). The correct number of bills and coins are displayed appropriately.</description>
     </item>
     
     <item>
       <title>Weekly Payroll</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/java/weekelypayroll/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/java/weekelypayroll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/java/weekelypayroll/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/java/weekelypayroll/</guid>
       <description>Java program that utilizes JOptionPane to allow a user to choose a worker type, fill in details about the worker, and then print out a weekly paycheck amount based on the information entered for all workers during runtime.</description>
     </item>
     
     <item>
       <title>Guest Book</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/php/guestbook/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/php/guestbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/php/guestbook/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/php/guestbook/</guid>
       <description>Script that stores visitor names and e-mail addresses in a text file. Allows users to view the guest book and prevents the same username from being entered twice. Also, includes a sort method to sort the guest book by name and deletes duplicate entries.</description>
     </item>
     
     <item>
       <title>Miles Per Gallon</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/java/milespergallon/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/java/milespergallon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/java/milespergallon/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/java/milespergallon/</guid>
       <description>Java program that allows a user to enter a positive number of miles and gallons of gas used on a trip to calculate MPG for a/multiple trips. It outputs the average MPG for all trips entered on exit.</description>
     </item>
     
     <item>
       <title>Two Trains</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/php/twotrains/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/php/twotrains/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/php/twotrains/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/php/twotrains/</guid>
       <description>All-in-One sticky form that solves the “two trains moving toward each other” word problem. Has three inputs, all numbers greater than 0: the speed of Train A, the speed of Train B, and the distance between the two trains.</description>
     </item>
     
     <item>
       <title>Paycheck</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/php/paycheck/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/php/paycheck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/php/paycheck/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/php/paycheck/</guid>
       <description>Two-part form that calculates an employee’s weekly gross salary, based on the number of hours worked and an hourly wage that a user chooses. The program computes any hours over 40 as time-and-a-half, the input is verified and validated to the submitted form data and provides appropriate error messages for invalid values.</description>
     </item>
     
     <item>
       <title>Vivamus Lacus Mauris</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/post/vivamus-lacus-mauris/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/post/vivamus-lacus-mauris/</link>
       <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/post/vivamus-lacus-mauris/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/post/vivamus-lacus-mauris/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/subheader/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/subheader/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/home/subheader/</guid>
       <description>Striving to create with an emphasis on clarity, structure, and maintainable code. These projects span academic work and personal experiments, each shaped by a focus on intuitive interfaces and efficient engineering. This portfolio highlights the work that best reflects how I think and create as a developer.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/misc/construction/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/misc/construction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/misc/construction/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/misc/construction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Download HUGO template</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/downloads/download2/</link>
+      <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/downloads/download2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/downloads/download2/</guid>
+      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/home/downloads/download2/</guid>
       <description>Another simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
     </item>
     
