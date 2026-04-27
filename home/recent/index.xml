@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent on Brian Efflandt Coding Portfolio</title>
-    <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/</link>
+    <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/</link>
     <description>Recent content in Recent on Brian Efflandt Coding Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trivia Game (JS, Node, Express)</title>
-      <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/triviagame/</link>
+      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/triviagame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/triviagame/</guid>
+      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/triviagame/</guid>
       <description>Application that utilizes Open Trivia DB API, node js, and express. Weighted scores based on how fast you answer questions, enter your name after the quiz to be added to the (Pantry) database. If you place in the top 10, your score will be highlighted to represent your position among the leaders.</description>
     </item>
     
     <item>
       <title>Full Stack Weather App (MERN)</title>
-      <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/mernweather/</link>
+      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mernweather/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/mernweather/</guid>
+      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mernweather/</guid>
       <description>MERN application that grabs an openweather API and stores the JSON in MongoDB. There is also a function that stores a timestamp for each submit in local storage that can be cleared from within the app.</description>
     </item>
     
     <item>
       <title>Translation App (Django)</title>
-      <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/djangotranslator/</link>
+      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/djangotranslator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/djangotranslator/</guid>
+      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/djangotranslator/</guid>
       <description>Django app that allows a user to enter text into a textarea which is then processed by the googletrans API, and then returns the translation from the previously selected language.</description>
     </item>
     
     <item>
       <title>Tic Tac Toe (React)</title>
-      <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/tictactoe/</link>
+      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/tictactoe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/tictactoe/</guid>
+      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/tictactoe/</guid>
       <description>React tic-tac-toe game that keeps a record of each player&amp;rsquo;s moves and highlights the winner&amp;rsquo;s marks once the game is complete.</description>
     </item>
     
     <item>
       <title>Mary Efflandt Photo (HTML)</title>
-      <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/mep/</link>
+      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mep/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/mep/</guid>
+      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/mep/</guid>
       <description>Advanced web-dev semester long project which included wire frames, marketing concepts, color scheming, search engine optimization, software development life cycle, and time management concepts. The whole project involved sharing ideas with other classmates throughout the semester, and sharing constructive criticism about other people&amp;rsquo;s ideas and workflows.
 Notes:
 Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
@@ -55,10 +55,10 @@ Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
     
     <item>
       <title>Portfolio Site (HUGO)</title>
-      <link>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/portfolio/</link>
+      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/home/recent/portfolio/</guid>
+      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/portfolio/</guid>
       <description>Creating this site has been challenging. It’s given me an opportunity to gain experience in all areas of the SDLC, especially in deployment and bug tracking (organizing repositories and subdirectories with Git, GitHub, and GitHub Pages).</description>
     </item>
     
