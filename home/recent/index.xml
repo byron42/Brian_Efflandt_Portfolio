@@ -54,12 +54,12 @@ Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
     </item>
     
     <item>
-      <title>Portfolio Site (HUGO)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/portfolio/</link>
+      <title>ROBO FRIENDS (React)</title>
+      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/robofriends/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/portfolio/</guid>
-      <description>Creating this site has been challenging. It’s given me an opportunity to gain experience in all areas of the SDLC, especially in deployment and bug tracking (organizing repositories and subdirectories with Git, GitHub, and GitHub Pages).</description>
+      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/robofriends/</guid>
+      <description>React app that uses API&amp;rsquo;s to populate images and users alike. The search function allows narrowing down users (clear it to get back to origin). One API generates user images based on their name, the other populates the users themselves.</description>
     </item>
     
   </channel>
