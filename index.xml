@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate><atom:link href="https://byron42.github.io/Brian_Efflandt_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Resume Analizer (Full Stack, AI)</title>
+      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/resumelizer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/resumelizer/</guid>
+      <description>AI‑Powered Resume Analyzer built with React, React Router, Puter, Puter.js, Tailwind CSS, Typescript, and Vite. This is a streamlined platform where users can authenticate, upload resumes, and receive AI‑driven insights (including ATS scoring), job‑match analysis, and targeted improvement suggestions. This is all delivered through a clean, reusable UI.</description>
+    </item>
+    
+    <item>
       <title>ROBO FRIENDS (React)</title>
       <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/robofriends/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -160,15 +169,6 @@ Bootstrap, JavaScript, SDLC, SEO, wire framing</description>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/c_sharp/teamlead/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Tic Tac Toe (React)</title>
-      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/tictactoe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/home/recent/tictactoe/</guid>
-      <description>React tic-tac-toe game that keeps a record of each player&amp;rsquo;s moves and highlights the winner&amp;rsquo;s marks once the game is complete.</description>
     </item>
     
     <item>
