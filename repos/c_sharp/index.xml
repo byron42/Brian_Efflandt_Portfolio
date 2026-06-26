@@ -30,7 +30,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/c_sharp/teamlead/</guid>
-      <description></description>
+      <description>Application that lets the user enter a team leader’s details (name, employee number, shift, etc). It then validates the inputs, stores them in a TeamLeader Object, and displays the completed employee information on the form when Create Object is clicked, with an Exit button available to close the program.</description>
     </item>
     
     <item>
@@ -39,7 +39,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/c_sharp/wordcount/</guid>
-      <description></description>
+      <description>Application that collects text from the user, counts how many words it contains, and then calculates the average number of letters per word by subtracting whitespace from the total character count. It displays both results in a message box when the user clicks the button, and has an Exit button to close the program.</description>
     </item>
     
   </channel>
