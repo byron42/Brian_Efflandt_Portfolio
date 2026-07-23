@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>React.js Examples on Brian Efflandt Coding Portfolio</title>
-    <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/react/</link>
+    <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/</link>
     <description>Recent content in React.js Examples on Brian Efflandt Coding Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/Brian_Efflandt_Portfolio/repos/react/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume Analizer (Full Stack, AI)</title>
-      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/react/resumelizer/</link>
+      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/resumelizer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/react/resumelizer/</guid>
+      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/resumelizer/</guid>
       <description>AI‑Powered Resume Analyzer built with React, React Router, Puter, Puter.js, Tailwind CSS, Typescript, Zustand, and Vite. This is a streamlined platform where users can authenticate, upload resumes, and receive AI‑driven insights (including ATS scoring), job‑match analysis, and targeted improvement suggestions. This is all delivered through a clean, reusable UI.</description>
     </item>
     
     <item>
       <title>ROBO FRIENDS (React)</title>
-      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/react/robofriends/</link>
+      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/robofriends/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/react/robofriends/</guid>
+      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/robofriends/</guid>
       <description>React app that uses API&amp;rsquo;s to populate images and users alike. The search function allows narrowing down users (clear it to get back to origin). One API generates user images based on their name, the other populates the users themselves.</description>
     </item>
     
     <item>
       <title>Tic Tac Toe (React)</title>
-      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/react/tictactoe/</link>
+      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/tictactoe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/react/tictactoe/</guid>
+      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/tictactoe/</guid>
       <description>React tic-tac-toe game that keeps a record of each player&amp;rsquo;s moves and highlights the winner&amp;rsquo;s marks once the game is complete.</description>
     </item>
     
     <item>
       <title>Expense Tracker (React)</title>
-      <link>http://localhost:1313/Brian_Efflandt_Portfolio/repos/react/expensetracker/</link>
+      <link>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/expensetracker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/Brian_Efflandt_Portfolio/repos/react/expensetracker/</guid>
+      <guid>https://byron42.github.io/Brian_Efflandt_Portfolio/repos/react/expensetracker/</guid>
       <description>React application which allows a user to input expenses and then has an interface for viewing and tracking the expenses from year to year.</description>
     </item>
     
